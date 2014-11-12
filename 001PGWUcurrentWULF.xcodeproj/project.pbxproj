@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C04E6B91A134C34009414E4 /* JNYJ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C04E6B81A134C34009414E4 /* JNYJ.swift */; };
 		7CB808B01A13047200D48926 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CB808AF1A13047200D48926 /* AppDelegate.swift */; };
 		7CB808B21A13047200D48926 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CB808B11A13047200D48926 /* ViewController.swift */; };
 		7CB808B51A13047200D48926 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CB808B31A13047200D48926 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7C04E6B81A134C34009414E4 /* JNYJ.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JNYJ.swift; sourceTree = "<group>"; };
 		7CB808AA1A13047200D48926 /* 001PGWUcurrentWULF.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 001PGWUcurrentWULF.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CB808AE1A13047200D48926 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7CB808AF1A13047200D48926 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 			children = (
 				7CB808AF1A13047200D48926 /* AppDelegate.swift */,
 				7CB808B11A13047200D48926 /* ViewController.swift */,
+				7C04E6B81A134C34009414E4 /* JNYJ.swift */,
 				7CB808B31A13047200D48926 /* Main.storyboard */,
 				7CB808B61A13047200D48926 /* Images.xcassets */,
 				7CB808B81A13047200D48926 /* LaunchScreen.xib */,
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C04E6B91A134C34009414E4 /* JNYJ.swift in Sources */,
 				7CB808B21A13047200D48926 /* ViewController.swift in Sources */,
 				7CB808B01A13047200D48926 /* AppDelegate.swift in Sources */,
 			);
@@ -407,6 +411,7 @@
 				7CB808CB1A13047200D48926 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7CB808CC1A13047200D48926 /* Build configuration list for PBXNativeTarget "001PGWUcurrentWULFTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +420,7 @@
 				7CB808CE1A13047200D48926 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
